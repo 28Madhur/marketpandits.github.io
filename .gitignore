@@ -1,0 +1,10 @@
+.cache/
+.config/
+.ipython/
+.java/
+.local/
+.mozilla/
+.pki/
+.vscode-oss/
+Downloads/
+Pictures/
